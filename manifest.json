@@ -1,0 +1,1210 @@
+{
+  "version": 1,
+  "locale": "en_US",
+  "platform": "4.4.1",
+  "metadata": {
+    "appmode": "static",
+    "primary_rmd": null,
+    "primary_html": "R/Datasets/Framingham.html",
+    "content_category": null,
+    "has_parameters": false
+  },
+  "packages": null,
+  "files": {
+    "desktop.ini": {
+      "checksum": "ecf88f261853fe08d58e2e903220da14"
+    },
+    "EMSI_JobChange_UK_1 digit.csv": {
+      "checksum": "60f7879887a03682ebfd2ed430f5b986"
+    },
+    "GitHub/AI_Repo/.gitattributes": {
+      "checksum": "05bdb783ee6514c8c072e47680af8ff7"
+    },
+    "GitHub/AI_Repo/.RData": {
+      "checksum": "aa7c0cdc8750ba617cfc9e4cf97659a2"
+    },
+    "GitHub/AI_Repo/code-scatter-plot/aromatase.csv": {
+      "checksum": "e95d45ce6b968ab2d0c64e661e3fa6ee"
+    },
+    "GitHub/AI_Repo/code-scatter-plot/code-scatter-plot.R": {
+      "checksum": "7efbfa3de5f6677399caf45ee37c5174"
+    },
+    "GitHub/AI_Repo/code-scatter-plot/plot.pdf": {
+      "checksum": "ccc884fad22a1c93f7e3851925dfe7d3"
+    },
+    "GitHub/AI_Repo/code-scatter-plot/plot_multiplot.pdf": {
+      "checksum": "9528acd4e3e82827b34899800fc48273"
+    },
+    "GitHub/AI_Repo/code-scatter-plot/plot2.pdf": {
+      "checksum": "cd7cd9b5fcf1fd5c5dab990695b045de"
+    },
+    "GitHub/AI_Repo/code-scatter-plot/Rplot__10_aromatose.png": {
+      "checksum": "9c161075764c333571a41d32b3b31e23"
+    },
+    "GitHub/AI_Repo/code-scatter-plot/Rplot_1_aromatose.png": {
+      "checksum": "30d737bd3c0d8e73b1dd18173ff59897"
+    },
+    "GitHub/AI_Repo/code-scatter-plot/Rplot_11_aromatose.png": {
+      "checksum": "a42fa03b54755dae25ec830a23fb29bf"
+    },
+    "GitHub/AI_Repo/code-scatter-plot/Rplot_2_aromatose.png": {
+      "checksum": "aae2826692a976251d838722bbafae3f"
+    },
+    "GitHub/AI_Repo/code-scatter-plot/Rplot_3_aromatose.png": {
+      "checksum": "27f936d1c9337329f1eb5ec8aea99b7e"
+    },
+    "GitHub/AI_Repo/code-scatter-plot/Rplot_4_aromatose.png": {
+      "checksum": "0e2bfa6a40ed7162590e78d8b2fe21f8"
+    },
+    "GitHub/AI_Repo/code-scatter-plot/Rplot_5_aromatose.png": {
+      "checksum": "6634534cb7f28a9c8e5e78bdf10b1d64"
+    },
+    "GitHub/AI_Repo/code-scatter-plot/Rplot_6_aromatose.png": {
+      "checksum": "99411fb4e80727a05584a68706755319"
+    },
+    "GitHub/AI_Repo/code-scatter-plot/Rplot_7_aromatose.png": {
+      "checksum": "baf5f048852ed1a6043fde0a0dd4215a"
+    },
+    "GitHub/AI_Repo/code-scatter-plot/Rplot_8_aromatose.png": {
+      "checksum": "b87749feefe0f2973df2fbd3d955ccaa"
+    },
+    "GitHub/AI_Repo/code-scatter-plot/Rplot_9_aromatose.png": {
+      "checksum": "004f05e038efd8bdf6ebd63d5de64c00"
+    },
+    "GitHub/AI_Repo/LICENSE": {
+      "checksum": "62d388da8e9f4cc60b2b56b387c7f14c"
+    },
+    "input.csv": {
+      "checksum": "84d25c5c484f91d9cdd0e4dec3eeaba7"
+    },
+    "Login_and_Register_Form_Design": {
+      "checksum": "bfb25f89ebf630c8af10f4d4fb48a921"
+    },
+    "My Tableau Repository/Logs/hyperd.log": {
+      "checksum": "095fc10d74416f2709bdf4938ca1b292"
+    },
+    "My Tableau Repository/Logs/log.txt": {
+      "checksum": "967130665d8263f5d2730dcc361d82e3"
+    },
+    "My Tableau Repository/Logs/tableau-error.marker": {
+      "checksum": "d41d8cd98f00b204e9800998ecf8427e"
+    },
+    "My Tableau Repository/Logs/tabprotosrv_2024_07_25_23_58_49.txt": {
+      "checksum": "26db31b93301706e5b0b092962f49b29"
+    },
+    "My Tableau Repository/Logs/tabprotosrv_2024_07_26_00_02_56.txt": {
+      "checksum": "f346abd70bc31387192309fd231cd69c"
+    },
+    "My Tableau Repository/Logs/tabprotosrv_2024_07_26_00_03_03.txt": {
+      "checksum": "fe32a17469bd56dfb1c0c497acb0d3f2"
+    },
+    "My Tableau Repository/Logs/tabprotosrv_2024_07_26_00_07_35.txt": {
+      "checksum": "670b08ad09afc54a02a45a892af24aa7"
+    },
+    "My Tableau Repository/Preferences.tps": {
+      "checksum": "0871e9617b192e3a5fb6f68bbfb13e50"
+    },
+    "NetBeansProjects/Hadoop-pipeline/LICENSE.txt": {
+      "checksum": "9ddf50eccd7efe1563b2c98f7ada7ea3"
+    },
+    "NetBeansProjects/Hadoop-pipeline/Makefile.txt": {
+      "checksum": "867410f8fbf76dbad6aabadf004c54cb"
+    },
+    "NetBeansProjects/Hadoop-pipeline/pom.xml": {
+      "checksum": "f788852b8bc9b38ca89e34ecde8e357b"
+    },
+    "NetBeansProjects/Hadoop-pipeline/README.md": {
+      "checksum": "df096bd52b5ab063308798e3d6968715"
+    },
+    "NetBeansProjects/Hadoop-pipeline/src/main/java/com/company/hadoop/pipeline/LineIds.java": {
+      "checksum": "e1448465267258656d5cdcb417949f63"
+    },
+    "NetBeansProjects/Hadoop-pipeline/src/main/java/com/company/hadoop/pipeline/SortableData.java": {
+      "checksum": "35e2dee3e3c4232f2d73586a44bd20e8"
+    },
+    "NetBeansProjects/Hadoop-pipeline/src/main/java/com/company/hadoop/pipeline/SorterReducer.java": {
+      "checksum": "8ac715c6d50d16f09dfa3c0578249a49"
+    },
+    "NetBeansProjects/Hadoop-pipeline/src/main/java/com/company/hadoop/pipeline/TaxiFilter.java": {
+      "checksum": "8ac2da0e440495a6c741577e8447fd68"
+    },
+    "NetBeansProjects/Hadoop-pipeline/src/main/java/com/company/hadoop/pipeline/TaxiHadoopDriver.java": {
+      "checksum": "5c076c846982f6e878f668e36bb373ac"
+    },
+    "NetBeansProjects/Hadoop-pipeline/src/main/java/com/company/hadoop/pipeline/TaxiMapper.java": {
+      "checksum": "7a9ea9439864c05e66ddbfaa4338a58a"
+    },
+    "NetBeansProjects/Hadoop-pipeline/src/main/java/com/company/hadoop/pipeline/TaxiReducer.java": {
+      "checksum": "e67c5ca02642184c6267b8937be4082f"
+    },
+    "NetBeansProjects/Hadoop-pipeline/src/main/java/com/company/hadoop/pipeline/TaxiWritable.java": {
+      "checksum": "afd6369c2c485ad3c4da8c92a6269c2f"
+    },
+    "NetBeansProjects/Hadoop-pipeline/target/classes/com/company/hadoop/pipeline/LineIds.class": {
+      "checksum": "d19728f11220619bd6302aaf279755ea"
+    },
+    "NetBeansProjects/Hadoop-pipeline/target/classes/com/company/hadoop/pipeline/SortableData.class": {
+      "checksum": "055f4dc846247dc2832bc36effdead1b"
+    },
+    "NetBeansProjects/Hadoop-pipeline/target/classes/com/company/hadoop/pipeline/SorterReducer.class": {
+      "checksum": "731fc52ed1c8ba0f29ce842c67561d40"
+    },
+    "NetBeansProjects/Hadoop-pipeline/target/classes/com/company/hadoop/pipeline/TaxiFilter.class": {
+      "checksum": "e18f1aa8ad4ff99373dce323bc3af871"
+    },
+    "NetBeansProjects/Hadoop-pipeline/target/classes/com/company/hadoop/pipeline/TaxiHadoopDriver.class": {
+      "checksum": "1a4536d11772a01fd5c9fafe04b66425"
+    },
+    "NetBeansProjects/Hadoop-pipeline/target/classes/com/company/hadoop/pipeline/TaxiMapper.class": {
+      "checksum": "1660d4e9e2e8bc606666db92ad53be19"
+    },
+    "NetBeansProjects/Hadoop-pipeline/target/classes/com/company/hadoop/pipeline/TaxiReducer.class": {
+      "checksum": "24a3aacd97fae83541ec9c9f9ab57eef"
+    },
+    "NetBeansProjects/Hadoop-pipeline/target/classes/com/company/hadoop/pipeline/TaxiWritable.class": {
+      "checksum": "e5711a3f36a1198a892e20cc2cf1758d"
+    },
+    "NetBeansProjects/Hadoop-pipeline/target/MapReduce-Taxi-0.1-SNAPSHOT.jar": {
+      "checksum": "6d496271b7dfd18b6d1e70f17536195c"
+    },
+    "NetBeansProjects/Hadoop-pipeline/target/maven-archiver/pom.properties": {
+      "checksum": "36aadb6ce6ee4396df6b2625f8666405"
+    },
+    "NetBeansProjects/Hadoop-pipeline/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst": {
+      "checksum": "48e6a5b9ba8005885764b3461800bcd7"
+    },
+    "NetBeansProjects/Hadoop-pipeline/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst": {
+      "checksum": "aee8e18930a4fa28eabc4dbce76a75da"
+    },
+    "NetBeansProjects/Hadoop-pipeline/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst": {
+      "checksum": "d41d8cd98f00b204e9800998ecf8427e"
+    },
+    "NetBeansProjects/Hadoop-pipeline/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst": {
+      "checksum": "d41d8cd98f00b204e9800998ecf8427e"
+    },
+    "NetBeansProjects/Hadoop-pipeline/taxi-data-sorted-small.csv": {
+      "checksum": "7a08cb3ba582600eb604f1788576538a"
+    },
+    "NetBeansProjects/Login_and_Register_form._esign/target/classes/Login_Register$1.class": {
+      "checksum": "676cf15046473c64ca7491962edea561"
+    },
+    "NetBeansProjects/Login_and_Register_form._esign/target/classes/Login_Register$2.class": {
+      "checksum": "a456d017933b0ffed3a55dd4588f9d2c"
+    },
+    "NetBeansProjects/Login_and_Register_form._esign/target/classes/Login_Register$3.class": {
+      "checksum": "a3a335c0142b67309e8ab81779a5858b"
+    },
+    "NetBeansProjects/Login_and_Register_form._esign/target/classes/Login_Register.class": {
+      "checksum": "957eb794fa0f14611b7624b29fd5b2dd"
+    },
+    "NetBeansProjects/Login_and_Register_form._esign/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst": {
+      "checksum": "dd0b84060792f2c62691b12ebbeec24a"
+    },
+    "NetBeansProjects/Login_and_Register_form._esign/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst": {
+      "checksum": "6e8e89792b3b1a4b7ef1541cae17022e"
+    },
+    "NetBeansProjects/Login_and_Register_Form_Design_latest/build.xml": {
+      "checksum": "594a806732bf69c830fe5378d2f66789"
+    },
+    "NetBeansProjects/Login_and_Register_Form_Design_latest/manifest.mf": {
+      "checksum": "1a85ea4420d859b3aab3af09fc398382"
+    },
+    "NetBeansProjects/Login_and_Register_Form_Design_latest/nbproject/build-impl.xml": {
+      "checksum": "89e80733d1dfc48d18b4ba27d03d783f"
+    },
+    "NetBeansProjects/Login_and_Register_Form_Design_latest/nbproject/genfiles.properties": {
+      "checksum": "e2800ae476c155b54e44d4a5ae99f469"
+    },
+    "NetBeansProjects/Login_and_Register_Form_Design_latest/nbproject/private/private.properties": {
+      "checksum": "9624ee241d4d82a94cd0bcda34c4ffb6"
+    },
+    "NetBeansProjects/Login_and_Register_Form_Design_latest/nbproject/private/private.xml": {
+      "checksum": "2e83da2bed0fb87811e803e659ea5239"
+    },
+    "NetBeansProjects/Login_and_Register_Form_Design_latest/nbproject/project.properties": {
+      "checksum": "1be366b81caa7eb3a9fece3fcc185278"
+    },
+    "NetBeansProjects/Login_and_Register_Form_Design_latest/nbproject/project.xml": {
+      "checksum": "50faa7cd80aee035990ebcf86ec639b9"
+    },
+    "NetBeansProjects/Login_and_Register_Form_Design_latest/src/login_and_register_form_design_latest/Login_and_Register_Form_Design_latest.java": {
+      "checksum": "4e706d3bc3288492b23fa48641123253"
+    },
+    "NetBeansProjects/Login_and_Register_Form_Design_New/pom.xml": {
+      "checksum": "941ef19fa3d6cfcf3c2ce66de31d7858"
+    },
+    "NetBeansProjects/Login_and_Register_Form_Design_New/src/main/java/com/company/login_and_register_form_design_new/Login_and_Register_New.form": {
+      "checksum": "e5677dfd5d956d54f1d7af612425db05"
+    },
+    "NetBeansProjects/Login_and_Register_Form_Design_New/src/main/java/com/company/login_and_register_form_design_new/Login_and_Register_New.java": {
+      "checksum": "04b1babe90cbc1e74b19ae8832f2c944"
+    },
+    "NetBeansProjects/Login_and_Register_Form_Design_New/target/classes/com/company/login_and_register_form_design_new/Login_and_Register_New$1.class": {
+      "checksum": "f33519dda5ba0ef06d429432cf106b21"
+    },
+    "NetBeansProjects/Login_and_Register_Form_Design_New/target/classes/com/company/login_and_register_form_design_new/Login_and_Register_New$2.class": {
+      "checksum": "bb9162996d86d7cf27c21d8cc751cc16"
+    },
+    "NetBeansProjects/Login_and_Register_Form_Design_New/target/classes/com/company/login_and_register_form_design_new/Login_and_Register_New$3.class": {
+      "checksum": "0d33f9526c7f65dc28bf149a230f5e93"
+    },
+    "NetBeansProjects/Login_and_Register_Form_Design_New/target/classes/com/company/login_and_register_form_design_new/Login_and_Register_New.class": {
+      "checksum": "5b0bbdc315129af30350b294160145c1"
+    },
+    "NetBeansProjects/Login_and_Register_Form_Design_New/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst": {
+      "checksum": "95e76fa6a56135813239785268b0767c"
+    },
+    "NetBeansProjects/Login_and_Register_Form_Design_New/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst": {
+      "checksum": "651138cde9cd546e2bb24ff9fa5bf774"
+    },
+    "R/.gitattributes": {
+      "checksum": "05bdb783ee6514c8c072e47680af8ff7"
+    },
+    "R/Admission_Predict.csv": {
+      "checksum": "6d5aed16ca304b4caa2c3c8307a941b6"
+    },
+    "R/aromatase.csv": {
+      "checksum": "e95d45ce6b968ab2d0c64e661e3fa6ee"
+    },
+    "R/boston-housing-linear-regression.R": {
+      "checksum": "1c82e14fc22b75f45f4bb1651d900489"
+    },
+    "R/code-scatter-plot.R": {
+      "checksum": "7efbfa3de5f6677399caf45ee37c5174"
+    },
+    "R/Data_Visualization.R": {
+      "checksum": "ec4f89ce275a8c4bf98bc84158ed8c16"
+    },
+    "R/DataManipulation.R": {
+      "checksum": "a89cee898c14c12742973e7b58125143"
+    },
+    "R/Datasets/2018_-_2019_Class_Size_Pct_District_MSHS Formatted.csv": {
+      "checksum": "c932866adfbe8ba6fc120c3590822fd7"
+    },
+    "R/Datasets/2018_-_2019_Class_Size_Pct_District_MSHS.csv": {
+      "checksum": "c932866adfbe8ba6fc120c3590822fd7"
+    },
+    "R/Datasets/Admission_Predict.csv": {
+      "checksum": "6d5aed16ca304b4caa2c3c8307a941b6"
+    },
+    "R/Datasets/Advertising.csv": {
+      "checksum": "5de256372f45a779ef62adf592372dc1"
+    },
+    "R/Datasets/airports.csv": {
+      "checksum": "7fbeda0239bed45f04a67763ac189a04"
+    },
+    "R/Datasets/Auto.csv": {
+      "checksum": "b9a55ff53920650eed157b820d534d42"
+    },
+    "R/Datasets/CEO_salary.csv": {
+      "checksum": "d1993f90e4ad43bb6c58e1dc328a3ba1"
+    },
+    "R/Datasets/cevent.csv": {
+      "checksum": "df6182f34a325724ea19537a45b0f11d"
+    },
+    "R/Datasets/cevent.xlsx": {
+      "checksum": "de400a47d087864bea45da0e1adb9d9c"
+    },
+    "R/Datasets/Ch10Ex11.csv": {
+      "checksum": "e5b60f76df96c9a591b5dda4da5d8df0"
+    },
+    "R/Datasets/College.csv": {
+      "checksum": "3009e8a1bc63e8a6f0ee0842e227284d"
+    },
+    "R/Datasets/Credit.csv": {
+      "checksum": "ffbe5525f8981b177ec0d986ceb82dca"
+    },
+    "R/Datasets/CreditApprovalData.cvs": {
+      "checksum": "4772d3ffc8e8b604029ff382a0adca63"
+    },
+    "R/Datasets/customers.csv": {
+      "checksum": "e5fc0ff49e023eab9439720ce6d87b7a"
+    },
+    "R/Datasets/day.csv": {
+      "checksum": "fc9dd35812a1ee180fe17e6ef72a4121"
+    },
+    "R/Datasets/decay.csv": {
+      "checksum": "422bf72795d2784f3140f67161230a6f"
+    },
+    "R/Datasets/drivers-rage-score.csv": {
+      "checksum": "446ef620fd07bb6d448df36cb69e8558"
+    },
+    "R/Datasets/empathy.csv": {
+      "checksum": "f3b59b254e36d5d857ea13fb4ca8d11a"
+    },
+    "R/Datasets/Example_Data.csv": {
+      "checksum": "64073ee4242cf958cc81e04b714e1b97"
+    },
+    "R/Datasets/exercise.csv": {
+      "checksum": "809f34286c22ee8a6a41ac5d30f877d5"
+    },
+    "R/Datasets/FIFA2019.csv": {
+      "checksum": "7f926f6d76e697b934dcb54792bf187a"
+    },
+    "R/Datasets/Framingham.csv": {
+      "checksum": "ab330c5b52859d8e553fa67cb44829ab"
+    },
+    "R/Datasets/Framingham.html": {
+      "checksum": "af49abe46cc9a43cff6f8f50bb6403ff"
+    },
+    "R/Datasets/GolfBals.csv": {
+      "checksum": "e075d973be5a6e6959d9f54af23a4beb"
+    },
+    "R/Datasets/green_tripdata_2017-01.csv": {
+      "checksum": "5c035d96bce5f35254fdea7b1bba5367"
+    },
+    "R/Datasets/heart-disease.csv": {
+      "checksum": "db9cdf30b922d9f757da4fd90f200fc9"
+    },
+    "R/Datasets/Heart.csv": {
+      "checksum": "a8740786c164c3cc47f1a681e2621f6c"
+    },
+    "R/Datasets/hospitals.csv": {
+      "checksum": "3b30b88961d97fb33e8d0f8ed91f012a"
+    },
+    "R/Datasets/hour.csv": {
+      "checksum": "d50bd5a6f55131e72a7bedc334e2fce1"
+    },
+    "R/Datasets/HoustonAirline.csv": {
+      "checksum": "c66bedf73ba5b8f3874ba403f8773f0d"
+    },
+    "R/Datasets/Income1.csv": {
+      "checksum": "6e0f67919d0bd5f8f3b1abe319724bb8"
+    },
+    "R/Datasets/Income2.csv": {
+      "checksum": "dd50c480739d4af4c6f3a3d22313883c"
+    },
+    "R/Datasets/OccupationInfo.csv": {
+      "checksum": "3d8b5434daa93203c288ff2a37053d20"
+    },
+    "R/Datasets/pastry.cvs": {
+      "checksum": "3712161e0bb1895a45c78792fd2985ba"
+    },
+    "R/Datasets/PearsonLee.csv": {
+      "checksum": "3cd0f216b6ccc1fb018f46c87dd21550"
+    },
+    "R/Datasets/PearsonLee.html": {
+      "checksum": "d96f50bef9e35b2d85a0df9bd55d5adc"
+    },
+    "R/Datasets/PearsonLee_complete_original.csv": {
+      "checksum": "017bf00754f51eb2f286438e7011ac34"
+    },
+    "R/Datasets/PeopleInfo.csv": {
+      "checksum": "94b40e9c5ebecbdc77857df4ddc52324"
+    },
+    "R/Datasets/Physical.cvs": {
+      "checksum": "93147540c0e82ecd847f82d4f0ddc399"
+    },
+    "R/Datasets/project-1.csv": {
+      "checksum": "583c9f77dd9efbfe59dfbe0873bd1f7b"
+    },
+    "R/Datasets/project-10.csv": {
+      "checksum": "f77ea464c37f98444412da874eba01c9"
+    },
+    "R/Datasets/project-11.csv": {
+      "checksum": "2a3a3cc6c12f6df438f649271dd1b204"
+    },
+    "R/Datasets/project-12.csv": {
+      "checksum": "51384a941b471dceb5c509938a4ce43a"
+    },
+    "R/Datasets/project-13.csv": {
+      "checksum": "f49dce1191e945c7525f1ba194eee724"
+    },
+    "R/Datasets/project-14.csv": {
+      "checksum": "61b73ebc0a16fd456977a030499b042e"
+    },
+    "R/Datasets/project-15.csv": {
+      "checksum": "6d5aed16ca304b4caa2c3c8307a941b6"
+    },
+    "R/Datasets/project-16.csv": {
+      "checksum": "90b61cb94cc31ed99b9666e00fb1561e"
+    },
+    "R/Datasets/project-17.csv": {
+      "checksum": "3288349dcd57842587e29f83d432fa46"
+    },
+    "R/Datasets/project-18.csv": {
+      "checksum": "5cf800ae3fe854c193aca3ad5bb34a34"
+    },
+    "R/Datasets/project-19.csv": {
+      "checksum": "1383593414e548c2345fa7a8907905ac"
+    },
+    "R/Datasets/project-2.csv": {
+      "checksum": "1a3db2f059f78f65f7ec8e882760bf62"
+    },
+    "R/Datasets/project-20.csv": {
+      "checksum": "dc879724b112abeaeb60a3a4f6a8e7fa"
+    },
+    "R/Datasets/project-21.csv": {
+      "checksum": "96f15e28015a0224d963127eb8b99151"
+    },
+    "R/Datasets/project-22.csv": {
+      "checksum": "8ed966032c8c5712d90a9513c55e2c11"
+    },
+    "R/Datasets/project-23.csv": {
+      "checksum": "9bd40cdf06a51ed4518172d52823465d"
+    },
+    "R/Datasets/project-24.csv": {
+      "checksum": "dad09173cb2f9d1b54b4ab4cbf66ab68"
+    },
+    "R/Datasets/project-25.csv": {
+      "checksum": "cd60644be4d948fb082e66807984ee33"
+    },
+    "R/Datasets/project-26.csv": {
+      "checksum": "0368ca06c5d533360d94b6127fa33f77"
+    },
+    "R/Datasets/project-27.csv": {
+      "checksum": "aa9d2c08a0a741477d9c52b287549c12"
+    },
+    "R/Datasets/project-28.csv": {
+      "checksum": "1c71210699a4c41998fabaf467f735fd"
+    },
+    "R/Datasets/project-29.csv": {
+      "checksum": "29191c5d9dffcab431976a1a8a1e0876"
+    },
+    "R/Datasets/project-3.csv": {
+      "checksum": "fcf52b67ad63849aee227f664c459562"
+    },
+    "R/Datasets/project-30.csv": {
+      "checksum": "bbb6b4158bb32d81d9ec67cab12f332c"
+    },
+    "R/Datasets/project-31.csv": {
+      "checksum": "7ad03e05455c2453bf4604fd10f3bf77"
+    },
+    "R/Datasets/project-32.csv": {
+      "checksum": "61fdd54abdbf6a85b778e937122e1194"
+    },
+    "R/Datasets/project-33.csv": {
+      "checksum": "15c0da6f6da37eeaf5e70bbec14d1120"
+    },
+    "R/Datasets/project-34.csv": {
+      "checksum": "61fdd54abdbf6a85b778e937122e1194"
+    },
+    "R/Datasets/project-35.csv": {
+      "checksum": "b858f4580d0066c48e260dd3b96f1ed8"
+    },
+    "R/Datasets/project-36.csv": {
+      "checksum": "8fc6d3c3eb03043815f7abc99073bd59"
+    },
+    "R/Datasets/project-37-1.csv": {
+      "checksum": "c7ef49d346745f76069932ab22b4fcf5"
+    },
+    "R/Datasets/project-37-2.csv": {
+      "checksum": "d0f385d83028b782dd37bd75a0352a5a"
+    },
+    "R/Datasets/project-38.csv": {
+      "checksum": "e903ac7d32e5a9dcbd0d8159a765d52d"
+    },
+    "R/Datasets/project-39.csv": {
+      "checksum": "a3b947630f95bac40dce9302489cd74d"
+    },
+    "R/Datasets/project-4.csv": {
+      "checksum": "8dd0d9cad7b1aa95f2d9ee2731734bee"
+    },
+    "R/Datasets/project-40.csv": {
+      "checksum": "63b7bcb7db6d406f940ba0e5a9cfbff5"
+    },
+    "R/Datasets/project-41.csv": {
+      "checksum": "4db2634cd28cdba2eebfb531853e8f1b"
+    },
+    "R/Datasets/project-42.csv": {
+      "checksum": "673d91b4b4cc11d51023f47c96093c48"
+    },
+    "R/Datasets/project-43.csv": {
+      "checksum": "c1d5aef0b9196fea43eb997b29d875db"
+    },
+    "R/Datasets/project-44.csv": {
+      "checksum": "7e0e0a5dd9e922813e550179c925b678"
+    },
+    "R/Datasets/project-45.csv": {
+      "checksum": "88669a251366500616232d6c57bde2cb"
+    },
+    "R/Datasets/project-46.csv": {
+      "checksum": "1383593414e548c2345fa7a8907905ac"
+    },
+    "R/Datasets/project-47-1.csv": {
+      "checksum": "34b1dce4119451b7c3f34c6e3cefe10e"
+    },
+    "R/Datasets/project-47-2.csv": {
+      "checksum": "000ca8ef1fb825a072c1ff7b09abb951"
+    },
+    "R/Datasets/project-48.csv": {
+      "checksum": "ab6181f4a5dfa21d91a2b8e2b0046b7f"
+    },
+    "R/Datasets/project-49.csv": {
+      "checksum": "4a0d50741da472413da8a9b941056023"
+    },
+    "R/Datasets/project-5.csv": {
+      "checksum": "c29a90357315ce68c88f7068dfadcf04"
+    },
+    "R/Datasets/project-50.csv": {
+      "checksum": "537224ddc058507d8cf30bd9290a97d9"
+    },
+    "R/Datasets/project-51.csv": {
+      "checksum": "3d2945d797e5791786cd7de82fcac815"
+    },
+    "R/Datasets/project-52.csv": {
+      "checksum": "80677bbaa41ab4d937e9a976a4f12439"
+    },
+    "R/Datasets/project-53.csv": {
+      "checksum": "92b151bc9e865e4e7b9761f5c97bd3b8"
+    },
+    "R/Datasets/project-54.csv": {
+      "checksum": "bf1b66ea29838b393d00455d89964c01"
+    },
+    "R/Datasets/project-55.csv": {
+      "checksum": "9ca14f96059c6dc28fcc2bbbce4f654b"
+    },
+    "R/Datasets/project-56.csv": {
+      "checksum": "61ca0fafb547b58550977d5d040787c1"
+    },
+    "R/Datasets/project-57.csv": {
+      "checksum": "66646f7340a8bebde059b131259e4233"
+    },
+    "R/Datasets/project-58.csv": {
+      "checksum": "92ae554c9f6fc67609ae849c10318fb0"
+    },
+    "R/Datasets/project-59.csv": {
+      "checksum": "925dfd17fff002c5072c91f8e5d19506"
+    },
+    "R/Datasets/project-6.csv": {
+      "checksum": "697cc2fc673d413cd3c2383d2f60a688"
+    },
+    "R/Datasets/project-60.csv": {
+      "checksum": "ada024df844ab75eca36edcef98eeafe"
+    },
+    "R/Datasets/project-61.csv": {
+      "checksum": "75a563abc6b2b51a679b67fa5995614b"
+    },
+    "R/Datasets/project-62.csv": {
+      "checksum": "18e79fa51329e7b05843216b0999047c"
+    },
+    "R/Datasets/project-63.csv": {
+      "checksum": "e849b206095bf73b8088928533553592"
+    },
+    "R/Datasets/project-64.csv": {
+      "checksum": "87b199f72c91ecd975b166051a8235aa"
+    },
+    "R/Datasets/project-65.csv": {
+      "checksum": "61fdd54abdbf6a85b778e937122e1194"
+    },
+    "R/Datasets/project-66.csv": {
+      "checksum": "3977f9b336a83b0c4c930a8ff709b2a8"
+    },
+    "R/Datasets/project-67.csv": {
+      "checksum": "4b86f15854966f0ccd64d598e5bfb808"
+    },
+    "R/Datasets/project-68.csv": {
+      "checksum": "a190148a3d80b227b15e885535d8feab"
+    },
+    "R/Datasets/project-69.csv": {
+      "checksum": "3759cff90d3e44c96771c1fb8fe35e6e"
+    },
+    "R/Datasets/project-7.csv": {
+      "checksum": "4ac278a3bd9a36d87803b5758949afb0"
+    },
+    "R/Datasets/project-70.csv": {
+      "checksum": "4db2634cd28cdba2eebfb531853e8f1b"
+    },
+    "R/Datasets/project-71.csv": {
+      "checksum": "99a75a6801521dde2c6b547940a1008e"
+    },
+    "R/Datasets/project-72.csv": {
+      "checksum": "4db2634cd28cdba2eebfb531853e8f1b"
+    },
+    "R/Datasets/project-73.csv": {
+      "checksum": "db9cdf30b922d9f757da4fd90f200fc9"
+    },
+    "R/Datasets/project-74.csv": {
+      "checksum": "9912b30b4059e7bfdc58eb5b5a1ca043"
+    },
+    "R/Datasets/project-75.csv": {
+      "checksum": "4165d528c8aadc811415f77551d96396"
+    },
+    "R/Datasets/project-76.csv": {
+      "checksum": "61fdd54abdbf6a85b778e937122e1194"
+    },
+    "R/Datasets/project-77.csv": {
+      "checksum": "8b65dab022d4906e9423527546260530"
+    },
+    "R/Datasets/project-78.csv": {
+      "checksum": "182576fdfb45eeea262c99b0a3165e7c"
+    },
+    "R/Datasets/project-79.csv": {
+      "checksum": "9bd40cdf06a51ed4518172d52823465d"
+    },
+    "R/Datasets/project-8.csv": {
+      "checksum": "f7a3b96762c57dbff85d27aeb50d28fb"
+    },
+    "R/Datasets/project-80.csv": {
+      "checksum": "a091daec09ad565c2623b1e5d6819589"
+    },
+    "R/Datasets/project-81.csv": {
+      "checksum": "c752b2d58f501544f8db6a160ea3bc39"
+    },
+    "R/Datasets/project-82.csv": {
+      "checksum": "56cb9fd8da5c62fd60a0ac5deb11514a"
+    },
+    "R/Datasets/project-83.csv": {
+      "checksum": "4db2634cd28cdba2eebfb531853e8f1b"
+    },
+    "R/Datasets/project-9.csv": {
+      "checksum": "a3d660c5baf496bbc00bab9e9cc1cb19"
+    },
+    "R/Datasets/Project-ID.csv": {
+      "checksum": "c230e96381a42ccffa32d15d8ba25ed6"
+    },
+    "R/Datasets/README.md": {
+      "checksum": "b601579e8b9d7aa8e0661ed002879f18"
+    },
+    "R/Datasets/smoker.csv": {
+      "checksum": "55ae167130164abd7580127959c18cdc"
+    },
+    "R/Datasets/smoker1.csv": {
+      "checksum": "f2a94a190ac2c361f79a2db17e7fbab8"
+    },
+    "R/Datasets/smoking_SBP.csv": {
+      "checksum": "d58ef2947f5dde8f76f3c6aa749218ba"
+    },
+    "R/Datasets/speed.csv": {
+      "checksum": "583c9f77dd9efbfe59dfbe0873bd1f7b"
+    },
+    "R/Datasets/states.csv": {
+      "checksum": "e0d6799db0d870d34da483b5f9e4a1d7"
+    },
+    "R/Datasets/students.csv": {
+      "checksum": "53f9f099b605b60b4cb8502ed0b2f272"
+    },
+    "R/Datasets/testdata.csv": {
+      "checksum": "f7808ace65a053cac8863587baaea0be"
+    },
+    "R/Datasets/titanic_refined_500records.csv": {
+      "checksum": "826970cc0eba171820fe520a7569148e"
+    },
+    "R/dhfr/.RData": {
+      "checksum": "630009210d765f3bc19ba8556ee46433"
+    },
+    "R/dhfr/dhfr-classification-deploy.R": {
+      "checksum": "ccb678d26b94bdc033b08f74255530e3"
+    },
+    "R/dhfr/dhfr-classification-deploy.R.txt": {
+      "checksum": "ccb678d26b94bdc033b08f74255530e3"
+    },
+    "R/dhfr/dhfr-classification.R": {
+      "checksum": "f36694264d0570fb1e638c449b057cec"
+    },
+    "R/dhfr/dhfr-data-understanding.R": {
+      "checksum": "c9667c4681cfe9c39c5b83ae7dd89a19"
+    },
+    "R/dhfr/dhfr-handling-missing-data.R": {
+      "checksum": "69098e916dbe62376caaa155d67071ca"
+    },
+    "R/dhfr/dhfr-parallel-speed-up.R": {
+      "checksum": "69509b67d9c8ec9d81df270062fb2093"
+    },
+    "R/dhfr/my_work/dhfr-classification-deploy.R": {
+      "checksum": "2abbcad8bad67ccb071ae06bbb9534a1"
+    },
+    "R/dhfr/my_work/dhfr-classification.R": {
+      "checksum": "342daa87abc48b187ad1eb001dfac477"
+    },
+    "R/Iris/iris-classification.R": {
+      "checksum": "e06e9218af2d9b2e60c61910811c5a33"
+    },
+    "R/Iris/iris-data-understanding.R": {
+      "checksum": "64a64e244e71da985262a1f761753ba2"
+    },
+    "R/LICENSE": {
+      "checksum": "62d388da8e9f4cc60b2b56b387c7f14c"
+    },
+    "R/LICENSE.txt": {
+      "checksum": "86d3f3a95c324c9479bd8986968f4327"
+    },
+    "R/mini-project-solution-1.R": {
+      "checksum": "8bb65557e8e263a7137fe5d78359adf9"
+    },
+    "R/mini-project-solution-2.R": {
+      "checksum": "d231c2330dfcd7b3c3ff073cea3a79a8"
+    },
+    "R/mini-project-solution-3.R": {
+      "checksum": "f026ec33e27baeb0954e96c73f551a6b"
+    },
+    "R/mini-project-solution-4.R": {
+      "checksum": "36cee57b1e1d7c9e246c1414c42c5f38"
+    },
+    "R/mini-project-solution-5.R": {
+      "checksum": "a3ff4a061a7d990bcad4c8b429830d0b"
+    },
+    "R/model.R": {
+      "checksum": "3c5c3820e7a30d9578d0dea41c844558"
+    },
+    "R/model.rds": {
+      "checksum": "579bd89114e8500a748d40ea02f5aa97"
+    },
+    "R/modelling.R": {
+      "checksum": "4e1ba5b9376f78f1d8ec696e0994c028"
+    },
+    "R/modelling_neural_networks.R": {
+      "checksum": "b84ce3b4dc8462184a59e884af947ed1"
+    },
+    "R/Module-1-Example-1.R": {
+      "checksum": "f3cfb97a500692f4abc3cdcba49cceca"
+    },
+    "R/Module-1-Example-2.R": {
+      "checksum": "af2c09764651757694ecf9ad189e69ea"
+    },
+    "R/Module-1-Example-3.R": {
+      "checksum": "77ccb3b731d22ac1d413a0b4f96fe451"
+    },
+    "R/Module-1-Example-4.R": {
+      "checksum": "436701a816364375924a7f1f43879053"
+    },
+    "R/Module-1-Example-5.R": {
+      "checksum": "d39fdd2c8b69b34850d5505959f781bd"
+    },
+    "R/Module-1-Example-6.R": {
+      "checksum": "6e1fb48f4ecaaa4b5557a6831f92769d"
+    },
+    "R/Module-1-Example-7.R": {
+      "checksum": "b5232d7a0330dbaa3ac8a6cdcaae340d"
+    },
+    "R/Module-1-Example-8.R": {
+      "checksum": "41218bdad6832e46a9e0e0bb4d297b96"
+    },
+    "R/Module-1-Example-9-2.R": {
+      "checksum": "82a8044907467a9345a8f8af7e3c9f1f"
+    },
+    "R/Module-1-Example-9.R": {
+      "checksum": "35346e4e2709cb9332aeeaa34dde989d"
+    },
+    "R/Module-1-Overall-Example.R": {
+      "checksum": "717582456757b7b2f5d48a33dd09408f"
+    },
+    "R/Module-2-Example-1.R": {
+      "checksum": "539081385bb1cee0c9aa2da08a8485d9"
+    },
+    "R/Module-2-Example-2.R": {
+      "checksum": "57245dc777ebeb0b313ec27c2b9ee66b"
+    },
+    "R/Module-2-Example-3.R": {
+      "checksum": "6223fb5790564f12ddbc12e65c903956"
+    },
+    "R/Module-2-Example-4.R": {
+      "checksum": "62fb8fbc3d3a857cc3ae923a9daa648a"
+    },
+    "R/Module-3-Example-1.R": {
+      "checksum": "937938a726bfd64f2c54ab77e601b75e"
+    },
+    "R/Module-3-Example-2.R": {
+      "checksum": "88f6cc3fc3dd87fa7dae513cb61c276c"
+    },
+    "R/Module-3-Example-3.R": {
+      "checksum": "0e2413ed47a0bf436b5fcf72d50e0dbd"
+    },
+    "R/Module-3-Example-4.R": {
+      "checksum": "d1b9d58c45f8ac4f90de38846567d2d8"
+    },
+    "R/Module-3-Overall-Example.R": {
+      "checksum": "aa00a34327477d07d6d4bd0291b6710b"
+    },
+    "R/Module-4-Example-1.R": {
+      "checksum": "a26398e5e9fec54921c8bc7a59010fa2"
+    },
+    "R/Module-4-Example-10.R": {
+      "checksum": "f3429865151662137c884153116abb90"
+    },
+    "R/Module-4-Example-11.R": {
+      "checksum": "8e92b25d1aa120e855fd0b59300fd0c8"
+    },
+    "R/Module-4-Example-13.R": {
+      "checksum": "5ebcbc93b0e22e457175138c82805db1"
+    },
+    "R/Module-4-Example-2.R": {
+      "checksum": "666e2226dc177f401297ba986cdc2c5c"
+    },
+    "R/Module-4-Example-3.R": {
+      "checksum": "22958165b72b27faaba11d627de66503"
+    },
+    "R/Module-4-Example-4.R": {
+      "checksum": "300a4611d5740f7b4b6d232ca3375500"
+    },
+    "R/Module-4-Example-5.R": {
+      "checksum": "5dd52006f36a173284ea23579148aa68"
+    },
+    "R/Module-4-Example-6.R": {
+      "checksum": "e9758d65cfb26d7d8d117e0fcf0489b4"
+    },
+    "R/Module-4-Example-7.1.R": {
+      "checksum": "05166bf9be9e97fa286ecf78997ad3ee"
+    },
+    "R/Module-4-Example-7.R": {
+      "checksum": "111a94b5fd250680f015697e9cf79502"
+    },
+    "R/Module-4-Example-8.R": {
+      "checksum": "66caa5950805a924732976817362544c"
+    },
+    "R/Module-4-Example-9.R": {
+      "checksum": "153e1544510acf9dd6338391ef81211f"
+    },
+    "R/Module-4-Overall-Example.R": {
+      "checksum": "5421d915afbb33b95ed058bec87dc044"
+    },
+    "R/Module-5-Example-1.R": {
+      "checksum": "480251d5dc64b47939e9d87b13c28d4c"
+    },
+    "R/Module-5-Example-2.R": {
+      "checksum": "07e8592114a284eab4df8e62a6f20e9a"
+    },
+    "R/Module-5-Example-3.R": {
+      "checksum": "d11a4de2f86edd2ad9f3b6e35a3b2e92"
+    },
+    "R/Module-5-Example-4.R": {
+      "checksum": "8aaa652e372bede6374b8210fd4e202f"
+    },
+    "R/Module-5-Example-5.R": {
+      "checksum": "7cdb4b2e203cff263ee240eb53d1b81d"
+    },
+    "R/Module-5-Example-6.R": {
+      "checksum": "7a84b2a507397b87abb97d2ac41585df"
+    },
+    "R/Module-5-Overall-Example.R": {
+      "checksum": "bdf1fb289fa7daada9fa13689ae15a00"
+    },
+    "R/Module-6-Example-1.R": {
+      "checksum": "f62b058a7c179f9d92b6705d3d845556"
+    },
+    "R/Module-6-Example-2.R": {
+      "checksum": "ec2b13b69514221df32eb77b955fe2e0"
+    },
+    "R/Module-6-Example-3.R": {
+      "checksum": "4694e287be01988c597c8cf150f81627"
+    },
+    "R/Module-6-Example-4.R": {
+      "checksum": "bca6a118f4961497e3de2569b15a4890"
+    },
+    "R/Module-6-Example-5.R": {
+      "checksum": "396cdb2ec8ba77f66fffcef7425e91da"
+    },
+    "R/Module-6-Example-6.R": {
+      "checksum": "5c24670c624a63f3750982c092703acf"
+    },
+    "R/Module-6-Example-7.R": {
+      "checksum": "a1eae0f3b523451a2075e9ea95696b38"
+    },
+    "R/Module-6-Example-8.R": {
+      "checksum": "bcaca772f97f7bb450661175263d4ec4"
+    },
+    "R/Module-6-Example-9.R": {
+      "checksum": "dde70f194cf90f92e08b67fe40ee62bc"
+    },
+    "R/Module-6-Overall-Example.R": {
+      "checksum": "9b6ef2f0eca93630d9501ffa7471e313"
+    },
+    "R/project-.xml": {
+      "checksum": "4141d1ce4452bdd46439508c1be52f43"
+    },
+    "R/project-1.xml": {
+      "checksum": "1d7609a9f1e411212575c817493265b5"
+    },
+    "R/project-10.xml": {
+      "checksum": "8564bb41e762235bcf484473b1a680ec"
+    },
+    "R/project-11.xml": {
+      "checksum": "b365ce4afe09e7fa31a16d8513be52f6"
+    },
+    "R/project-12.xml": {
+      "checksum": "024135e3ed029d7e6930ae5dccac20a8"
+    },
+    "R/project-13.xml": {
+      "checksum": "234dec069a706dbc5d831201c5a15357"
+    },
+    "R/project-14.xml": {
+      "checksum": "4ac64bc3bc95ab8f183aee653597dd1f"
+    },
+    "R/project-15.xml": {
+      "checksum": "2914b94311092d9b224a3ea727966213"
+    },
+    "R/project-16.xml": {
+      "checksum": "60aeb1512e1a04c82f62ca89624f40bd"
+    },
+    "R/project-17.xml": {
+      "checksum": "fc3257c6448d59dc9bbfe4ab4c1a68ec"
+    },
+    "R/project-18.xml": {
+      "checksum": "7d5bfa9999915adc5039984dc86e9e92"
+    },
+    "R/project-19.xml": {
+      "checksum": "f2a0d59c57e12b29a070a9c8e32accc6"
+    },
+    "R/project-2.xml": {
+      "checksum": "f34d5213201bb3178845056012cc2c31"
+    },
+    "R/project-20.xml": {
+      "checksum": "58e688d443ba9c85f963a94f0f76d21d"
+    },
+    "R/project-21.xml": {
+      "checksum": "c4d909bae5508d2056e74a03c70265ef"
+    },
+    "R/project-22.xml": {
+      "checksum": "0e4aa6175f1084b7bd32fb21b945972c"
+    },
+    "R/project-23.xml": {
+      "checksum": "c0f04ce42b5ce26cd20a00b337d62f33"
+    },
+    "R/project-24.xml": {
+      "checksum": "8e7be96b669c0eb31c9020692b8f531c"
+    },
+    "R/project-25.xml": {
+      "checksum": "b885506b6b2326f6b4bf0c2030ba92c3"
+    },
+    "R/project-26.xml": {
+      "checksum": "74a7df96591c8887677ff20909e53e89"
+    },
+    "R/project-27.xml": {
+      "checksum": "cd3f98abfede4b0c8ca5d62a94c913ed"
+    },
+    "R/project-28.xml": {
+      "checksum": "bd5dae1f6e3f1822eaa8eeca4b0b30b4"
+    },
+    "R/project-29.xml": {
+      "checksum": "02a96fd82bae47975d5b714bc9e2a875"
+    },
+    "R/project-3.xml": {
+      "checksum": "7250b452c339ecf1c3e54bd21040a879"
+    },
+    "R/project-30.xml": {
+      "checksum": "f1b65221ad5bf565f183dec6ba18f303"
+    },
+    "R/project-31.xml": {
+      "checksum": "669f4aad1f37d7375f3687ad0c3f7bdd"
+    },
+    "R/project-32.xml": {
+      "checksum": "cad0ebdbe38f93e172a2e73816ad0da4"
+    },
+    "R/project-33.xml": {
+      "checksum": "cbc703d038805b4cd8e8ec43db1348bb"
+    },
+    "R/project-34.xml": {
+      "checksum": "6c0a966d4508836ebb5711eb94bdf1e5"
+    },
+    "R/project-35.xml": {
+      "checksum": "d0c7e27c330a012b0c7653748248ff35"
+    },
+    "R/project-36.xml": {
+      "checksum": "22ba49cd4dac67744f903ffb54317afa"
+    },
+    "R/project-37.xml": {
+      "checksum": "41752d4c5edf0ce63e3bb7a7faa5a2d0"
+    },
+    "R/project-38.xml": {
+      "checksum": "4ccec72c8a944407b6c854618ab9be2a"
+    },
+    "R/project-39.xml": {
+      "checksum": "19bf7051bbf652eb8b344feb97cbcc04"
+    },
+    "R/project-4.xml": {
+      "checksum": "0902b900c36c470fbd1b8798fbd0bf9b"
+    },
+    "R/project-40.xml": {
+      "checksum": "7947e27b1bf1f69862b6dcd59b509b80"
+    },
+    "R/project-41.xml": {
+      "checksum": "e69e8a164ae7b0202ebb75d1111699e9"
+    },
+    "R/project-42.xml": {
+      "checksum": "39fe634f22ddf78a2e48f26aa48901b9"
+    },
+    "R/project-43.xml": {
+      "checksum": "000147ca8c1db0a8d857a4041019967f"
+    },
+    "R/project-44.xml": {
+      "checksum": "da7b2f5029c740831e132ac50048a7a4"
+    },
+    "R/project-45.xml": {
+      "checksum": "49039edf912185b6355968d4b291af89"
+    },
+    "R/project-46.r": {
+      "checksum": "b4dfd7eb558c2ea6156d0388802b4976"
+    },
+    "R/project-46.xml": {
+      "checksum": "41ef837199668254f8ee410bfb95d7ea"
+    },
+    "R/project-47.xml": {
+      "checksum": "ea5606c88addf22a0ee565429e6fa962"
+    },
+    "R/project-48.xml": {
+      "checksum": "58d859002e92d4fe2e42d51128dc2bb1"
+    },
+    "R/project-49.xml": {
+      "checksum": "fe1ec2aa45aaff79ac7adc03e316e581"
+    },
+    "R/project-5.xml": {
+      "checksum": "ab80d1cca4b843178eb726c687d1992d"
+    },
+    "R/project-50.xml": {
+      "checksum": "9c5c039fd0e3603cec3f84886fce539d"
+    },
+    "R/project-51.xml": {
+      "checksum": "8accadfa7e637098fb79ba4b1f7bb6ac"
+    },
+    "R/project-52.xml": {
+      "checksum": "f6e57be081938d09281590e2432552f0"
+    },
+    "R/project-53.xml": {
+      "checksum": "9bde22fef7722e159d786675d08ccabf"
+    },
+    "R/project-54.xml": {
+      "checksum": "edd44f10f6b317041c47a34991ba6ec2"
+    },
+    "R/project-55.xml": {
+      "checksum": "daa958e4399cecdb0c32f5e5b29f05fb"
+    },
+    "R/project-56.xml": {
+      "checksum": "b3266483a2ee5f1116882a00bfea4536"
+    },
+    "R/project-57.xml": {
+      "checksum": "88a4f9510a5b9ddc4526284eaf6a3836"
+    },
+    "R/project-58.xml": {
+      "checksum": "2f13a2a12b40a95d9ee1855421cec089"
+    },
+    "R/project-59.xml": {
+      "checksum": "65965bcbf9ed83be87172f38863bd3cc"
+    },
+    "R/project-6.xml": {
+      "checksum": "8dc453352f1dc2fdd5fa3c121acb83db"
+    },
+    "R/project-60.xml": {
+      "checksum": "3ceb6b09e135192cdde7667979be5b56"
+    },
+    "R/project-61.xml": {
+      "checksum": "b91f0ac815e63e3cda838e88f4e9bc69"
+    },
+    "R/project-62.xml": {
+      "checksum": "f718a9d2c15f2e4ebead8d63b4341634"
+    },
+    "R/project-63.xml": {
+      "checksum": "7c515053cb0f5b2bd4338fc21e7f3db7"
+    },
+    "R/project-64.xml": {
+      "checksum": "1aece900b730ec0f88db27aebaf5e254"
+    },
+    "R/project-65.xml": {
+      "checksum": "9e6b4bc52676a952024739b886a24499"
+    },
+    "R/project-66.xml": {
+      "checksum": "a92ed353a9139329dcd90c5fbc971672"
+    },
+    "R/project-67.xml": {
+      "checksum": "2da6e4db87d4db5cc7bf694b353a11f8"
+    },
+    "R/project-68.xml": {
+      "checksum": "df220c82ebb9b777dc153c2df8b7d1a1"
+    },
+    "R/project-69.xml": {
+      "checksum": "5ffcbcf03c51ddcb2a25bad99146b56f"
+    },
+    "R/project-7.xml": {
+      "checksum": "ed3ca9944fd46c6f9d38ccf69da4bd78"
+    },
+    "R/project-70.xml": {
+      "checksum": "07c253e0036b8aa3d661210aaf6de531"
+    },
+    "R/project-71.xml": {
+      "checksum": "4d23f6fccb223f182c3f192421abcd59"
+    },
+    "R/project-72.xml": {
+      "checksum": "fdf27ca3ec2f319cad2b70d4a2de5ee9"
+    },
+    "R/project-73.xml": {
+      "checksum": "286a9a2981897a651c0a053c3b4f17bf"
+    },
+    "R/project-74.xml": {
+      "checksum": "925e927dbe6bcb46d619ee533f9ff2b0"
+    },
+    "R/project-75.xml": {
+      "checksum": "342ab78f11e5502ae6c115cde9c08032"
+    },
+    "R/project-76.xml": {
+      "checksum": "cd840ec1fbcd6c493f64088565c328ed"
+    },
+    "R/project-77.xml": {
+      "checksum": "b986497746beadc6cab99436ea4d0f2f"
+    },
+    "R/project-78.xml": {
+      "checksum": "5fbe9bcde2eb06ebc7196f75f9cc1303"
+    },
+    "R/project-79.xml": {
+      "checksum": "00957612cb49e244d89648d1f34df891"
+    },
+    "R/project-8.xml": {
+      "checksum": "948ad430cefe7bd4bed3b29dca54d136"
+    },
+    "R/project-80.xml": {
+      "checksum": "79ba77069bb795785bb2c0dfd641e415"
+    },
+    "R/project-81.xml": {
+      "checksum": "9dfcdd175e8a85f877b94268db273bf2"
+    },
+    "R/project-82.xml": {
+      "checksum": "b0468e34aa8124344eb3a2f45dd06145"
+    },
+    "R/project-83.xml": {
+      "checksum": "6185574b1c2ef8d65650a303ad1e6da8"
+    },
+    "R/project-9.xml": {
+      "checksum": "3ee1d62d0a7aebfe75af1f7e6b8ecf13"
+    },
+    "R/R-Example-Program-DataGeneator.R": {
+      "checksum": "5532039840b3b4326a95b38e30d6302e"
+    },
+    "R/R_Intro.R": {
+      "checksum": "72f251089e4cd5b11f8ff569308c2bfd"
+    },
+    "R/README.md": {
+      "checksum": "699f4d015a296cb39bd1c5ae8464ddc5"
+    },
+    "R/Running_R_on_Colab.ipynb": {
+      "checksum": "ed6ec7d0caf78d93b5653d3b6d473612"
+    },
+    "R/Taxi_Data_Linear_Regression.R": {
+      "checksum": "10f876d99249d255ccda88b2e047fb6c"
+    },
+    "R/Training-Example1.R": {
+      "checksum": "8b307b282d6a2752f4744a1ba341d547"
+    },
+    "R/Training-Example2.R": {
+      "checksum": "4bf325037819642a55162a484dc08f6f"
+    },
+    "R/using-reticulate.R": {
+      "checksum": "7451888dd9f16b1109cb370e614f51d2"
+    },
+    "R/web app/.RData": {
+      "checksum": "8027b4258e32f4f93eb699978fab484f"
+    },
+    "R/web app/about.md": {
+      "checksum": "1f87ba47eed74d6686c3d30903f2ef8c"
+    },
+    "R/web app/app-numeric.R": {
+      "checksum": "c16180448f7935b2fc774b6ab331affb"
+    },
+    "R/web app/app-slider.R": {
+      "checksum": "5926191647e23f7832d50d56f28d39a1"
+    },
+    "R/web app/app (1).R": {
+      "checksum": "99963d003318a9e83bff946576545550"
+    },
+    "R/web app/app (2).R": {
+      "checksum": "cd38d4c167848d6c42a8bdade206da16"
+    },
+    "R/web app/app (3).R": {
+      "checksum": "4b6cdb163b80f29b0a9bce6744123f03"
+    },
+    "R/web app/app.R": {
+      "checksum": "2e1e443753aeb313197989dfe0dcfa6b"
+    },
+    "R/web app/model.rds": {
+      "checksum": "579bd89114e8500a748d40ea02f5aa97"
+    }
+  },
+  "users": null
+}
